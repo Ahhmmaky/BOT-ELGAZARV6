@@ -5111,6 +5111,16 @@ case 'dare': case 'تويت':
 "مدينة بحرف ⤌ ع  ",
 "دولة واسم بحرف ⤌ ب  ",
 ]
+	      
+	           case 'truth1': case 'ميكاسا':
+              const truth1 =[
+    "🦅ميكاساااااااا العمة الشطورررررةةة🐧🦅", 
+
+]
+	      
+	      
+	      
+	      
               const xeonidhsisgd = idhsisgd[Math.floor(Math.random() * idhsisgd.length)]
               bufferidhsisgd = await getBuffer(`https://telegra.ph/file/e6259010eb14f0e5fb98d.jpg`)
               ElgazarBot.sendMessage(from, { image: bufferidhsisgd, caption: '*♚ مرحبا بك في لعبة الحروف*\nꔹ━━━━━ꔹ\n'+ xeonidhsisgd }, {quoted:m})
