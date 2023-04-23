@@ -5126,7 +5126,7 @@ case 'dare': case 'تويت':
               ElgazarBot.sendMessage(from, { image: bufferidhsisgd, caption: '*♚ مرحبا بك في لعبة الحروف*\nꔹ━━━━━ꔹ\n'+ xeonidhsisgd }, {quoted:m})
               break
        
-       case 'jtudvu': case 'اسال':
+       case 'اسأل': case 'سؤال':
               const jtudvu =[
    "أكثر جملة أثرت بك في حياتك؟ ",
   "إيموجي يوصف مزاجك حاليًا؟ ",
